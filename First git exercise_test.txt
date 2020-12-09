@@ -1,0 +1,2 @@
+First git exercise December 3, 2020
+This is my first git exercise assignemtn that I am working at the end of the Fall semester
