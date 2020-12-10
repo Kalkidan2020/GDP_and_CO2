@@ -6,4 +6,4 @@ This is my first Git Exercise Assignment for the PDS course.
 In this exercise, I am required to making a new repo....
 
 Now I'm making changes in CO2
-Changing the jupyter note book 
+New change on the branch 2
